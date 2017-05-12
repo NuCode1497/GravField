@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GravField", "GravField\GravField.csproj", "{08D23BA3-6058-44A9-803D-199E69290A58}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{08D23BA3-6058-44A9-803D-199E69290A58}.Debug|x86.ActiveCfg = Debug|x86
+		{08D23BA3-6058-44A9-803D-199E69290A58}.Debug|x86.Build.0 = Debug|x86
+		{08D23BA3-6058-44A9-803D-199E69290A58}.Release|x86.ActiveCfg = Release|x86
+		{08D23BA3-6058-44A9-803D-199E69290A58}.Release|x86.Build.0 = Release|x86
+		{207D41BA-B04C-434F-9E4F-F35486AAA149}.Debug|x86.ActiveCfg = Debug|x86
+		{207D41BA-B04C-434F-9E4F-F35486AAA149}.Release|x86.ActiveCfg = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
